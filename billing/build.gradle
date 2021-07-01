@@ -51,7 +51,7 @@ dependencies {
     api 'com.android.billingclient:billing-ktx:4.0.0'
 
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
-    implementation 'androidx.core:core-ktx:1.6.0-beta01'
+    implementation 'androidx.core:core-ktx:1.7.0-alpha01'
 
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
